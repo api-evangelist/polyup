@@ -1,0 +1,15 @@
+# Let'sMOD (Polyup)
+
+> Let'sMOD (formerly Polyup) is a Sunnyvale, California consumer platform where users aged 8+ play, modify, remix, and share short 3D microgames and AI-powered interactive memes. A 500 Global portfolio company. No public developer API, SDK, or developer portal is published today.
+
+## Overview
+- Website: https://letsmod.com
+- Blog: https://medium.com/polyup
+- GitHub organization (internal tooling only): https://github.com/letsmod
+- Support: help@letsmod.com
+
+## APIs
+- None published. Let'sMOD exposes no public REST/GraphQL/gRPC API, OpenAPI/AsyncAPI specification, or developer portal at this time.
+
+## Notes
+- This profile is a 500 Global portfolio lead in the API Evangelist network, enriched via live domain-security probing (see security/polyup-domain-security.yml).
